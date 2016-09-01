@@ -1,0 +1,4 @@
+{
+    "postinstall": "echo bower done",
+    "directory": "./client/lib"
+}
