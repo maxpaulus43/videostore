@@ -1,4 +1,4 @@
-function  configFactory() {
+function  config() {
     
     let config = {
         hostname: "localhost",
@@ -9,4 +9,4 @@ function  configFactory() {
 }
 
 
-module.exports = configFactory();
+module.exports = config();
