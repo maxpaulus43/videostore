@@ -1,0 +1,26 @@
+{
+  "name": "videostore",
+  "description": "A fake video store using mongodb/expressjs/angularjs/nodejs (mean stack)",
+  "main": "index.js",
+  "authors": [
+    "Max Paulus"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "video",
+    "mongodb",
+    "nodejs",
+    "expressjs",
+    "angularjs",
+    "videostore"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
