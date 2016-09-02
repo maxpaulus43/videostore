@@ -23,6 +23,9 @@
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-inject": "^4.1.0",
-    "gulp-wiredep": "0.0.0"
+    "gulp-load-plugins": "^1.2.4",
+    "gulp-sequence": "^0.4.6",
+    "gulp-wiredep": "0.0.0",
+    "wiredep": "^4.0.0"
   }
 }
